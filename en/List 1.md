@@ -14,4 +14,4 @@ But don't limit yourself to this, go further and add visuals but don't increase 
 8. Now do the opposite, from Fahrenheit to Celsius.
 9. Write a script that asks for the number of km traveled by a car rented by the user, as well as the number of days for which the car was rented. Calculate the price to pay, knowing that the car costs $ 30.00 per day and $ 0.15 per km driven.
 10. Write a script to calculate the life span reduction of a smoker. Ask  how many cigarettes he smokes per day and how many years he has smoked. Consider that a smoker loses 10 minutes of life with each cigarette, calculate how many days of life a smoker will lose. Display the total days.
-11. Knowing that Cstr( ) converts numeric values to string, calculate how many digits there are in 2 to the nearest million.
+11. Knowing that Cstr( ) converts numeric values to string, calculate how many digits there are in 2 to the power of one million.
